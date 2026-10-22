@@ -7,4 +7,4 @@
 Repository ini berisi semua tugas, proyek, dan catatan untuk mata kuliah **Pengantar Machine Learning** Semester Ganjil 2025/2026.
 
 ## Daftar Tugas
-- **Minggu 3:** [Setup Environment - Hello World]([https://colab.research.google.com/github/[Username_Github_Anda]/[NIM]-Pengantar-ML/blob/main/Tugas_Minggu_1_Hello_World.ipynb](https://github.com/Daffa277/231230048-Daffa-Abdu-Madja-Pengantar-ML))
+- **Minggu 3:** [Setup Environment - Hello World](https://colab.research.google.com/drive/1z6elo7gBEP5Pd7XSYo0a53_Zn46MpT-P?usp=sharing)
